@@ -1,74 +1,131 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MadheshKumarVJ">
-
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;..This+is+MadheshKumarVJ....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  Hi, I'm Madhesh Kumar VJ 👋
 </h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/vj-madhesh-kumar-42b184190/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <!-- <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
-  <code><a href="https://www.instagram.com/vj.madhesh_kumar/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
+<h3 align="center">
+  Founder & CTO @ <a href="https://synapsyz.com/" target="_blank">Synapsyz Innovations LLP</a>
+</h3>
+
 <p align="center">
-  Hi, I'm Madhesh Kumar VJ Software Developer from India
-  <br>
-  <br>
-  🎓 I graduated from Anna University, Department of Computer Engineering (Undergraduate)
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📫 How to reach me: <a href="mailto: vjmadheshkumarofficial@gmail.com">vjmadheshkumarofficial@gmail.com</a>
+  <em>Architecting scalable solutions and leading development teams.</em>
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <a href="https://www.linkedin.com/in/vj-madhesh-kumar-42b184190/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vjmadheshkumarofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/vj.madhesh_kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
-<hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MadheshKumarVJ&theme=react&border=61dafb&hide_border=true" alt="MadheshKumarVJ" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MadheshKumarVJ&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadheshKumarVJ&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MadheshKumarVJ&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<h3>🚀 About Me</h3>
+<p>
+I am a Software Architect and Entrepreneur based in India. As the CTO of <a href="https://synapsyz.com/" target="_blank"><b>Synapsyz Innovations LLP</b></a>, I oversee the end-to-end development of enterprise-grade applications, managing the tech stack from server infrastructure (Hetzner) to frontend interactivity.
+</p>
+<p>
+I specialize in building full-stack systems using <b>Django, Next.js, and Flutter</b>, with a strong focus on business automation and scalable architecture.
 </p>
 
 <hr>
 
-<h4 align="center">
-  <a href="https://github.com/MadheshKumarVJ?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+<h3>🏆 Key Projects & Products Delivered</h3>
+<table>
+  <tr>
+    <td width="50%">
+      <h4 align="center">
+        <a href="https://ringsnroses.com/" target="_blank">💍 Rings'N'Roses</a>
+      </h4>
+      <p align="center">A comprehensive <b>Wedding Marketplace</b> connecting vendors with clients.</p>
+      <p align="center"><code>Django</code> <code>React/Next.js</code> <code>PostgreSQL</code></p>
+    </td>
+    <td width="50%">
+      <h4 align="center">
+        <a href="https://deltaridedroptaxi.com/" target="_blank">🚕 Delta Ride Drop Taxi</a>
+      </h4>
+      <p align="center">A scalable <b>Taxi Booking Platform</b> with real-time tracking and dispatch.</p>
+      <p align="center"><code>Flutter</code> <code>Google Maps API</code> <code>Django REST</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4 align="center">
+        <a href="https://synapsyz.com/axon.html" target="_blank">🤖 Axon</a>
+      </h4>
+      <p align="center">An advanced <b>Automation Tool</b> designed to streamline business workflows.</p>
+      <p align="center"><code>Python</code> <code>n8n</code> <code>Automation</code></p>
+    </td>
+    <td width="50%">
+      <h4 align="center">
+        <a href="https://rodinia.tech/" target="_blank">🌐 Rodinia.tech</a>
+      </h4>
+      <p align="center">Corporate technology solutions platform and digital infrastructure.</p>
+      <p align="center"><code>Web Dev</code> <code>Server Management</code></p>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>🛠 Tech Stack & Architecture</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=django" width="40" height="40" alt="Django" /><br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJS" /><br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40" alt="Flutter" /><br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /><br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
+    </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /><br>Linux
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<h3>⚡ GitHub Activity</h3>
+
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=MadheshKumarVJ&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=MadheshKumarVJ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadheshKumarVJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+</div>
+
+<br>
+<hr>
+
+<p align="center">
+  <small>Profile maintained by <b>Madhesh Kumar VJ</b> • Founder @ <a href="https://synapsyz.com/">Synapsyz Innovations LLP</a></small>
+</p>
